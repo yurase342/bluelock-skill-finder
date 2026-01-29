@@ -142,7 +142,7 @@ const characterData = [
   {
     "name": "糸師冴【SEASIDE EGOIST】",
     "type": "スピード",
-    "image": "../糸師冴【SEASIDE EGOIST】.png",
+    "image": "./images/糸師冴【SEASIDE EGOIST】.png",
     "trainingCards": [
       {"cardName": "スプリントダッシュ", "skills": [{"skillName": "疾風", "description": "スキル発動した際の突破時のみ、スピードを活かした突破が上手くなる。"}, {"skillName": "鋭敏", "description": "試合中、自身のスピードと賢さが増加する。"}, {"skillName": "得点到達点", "description": "スキル発動時、しばらくの間、自身のスピードと賢さが上昇する。"}]},
       {"cardName": "ポジティブシンキング", "skills": [{"skillName": "戦術眼", "description": "スキル発動した際のパスカット時のみ、自身のパスカットの成功率が上がる。"}, {"skillName": "伸足", "description": "スキル発動した際のシュートブロック時、ボールに触りやすくなる。"}, {"skillName": "得点到達点", "description": "スキル発動時、しばらくの間、自身のスピードと賢さが上昇する。"}]},
@@ -153,7 +153,7 @@ const characterData = [
   {
     "name": "千切豹馬【ブリリアント・ブーケ】",
     "type": "賢さ",
-    "image": "../千切豹馬【ブリリアント・ブーケ】.png",
+    "image": "./images/千切豹馬【ブリリアント・ブーケ】.png",
     "trainingCards": [
       {"cardName": "イメージトレーニング", "skills": [{"skillName": "ブロッカー", "description": "スキル発動した際のシュートブロック時のみ、自身のシュートブロックの成功率が上がる。"}, {"skillName": "切れ者", "description": "試合中、自身の賢さが増加する。"}, {"skillName": "気分屋", "description": "スキル発動時、しばらくの間、自身の賢さとフィジカルが上昇する。"}]},
       {"cardName": "筋トレマシン", "skills": [{"skillName": "嗅覚", "description": "スキル発動した際のセカンドボール争いの時のみ、マイボールにする確率が上昇する。"}, {"skillName": "突破口", "description": "スキル発動した際の突破時のみ、自身の能力が上昇する。"}, {"skillName": "気分屋", "description": "スキル発動時、しばらくの間、自身の賢さとフィジカルが上昇する。"}]},
@@ -164,7 +164,7 @@ const characterData = [
   {
     "name": "凪誠士郎【はじめまして日本】",
     "type": "キック",
-    "image": "../凪誠士郎【はじめまして日本】.png",
+    "image": "./images/凪誠士郎【はじめまして日本】.png",
     "trainingCards": [
       {"cardName": "対BLMシュート練習", "skills": [{"skillName": "崖っぷち", "description": "相手チームにリードされている時、自身のシュート成功率が上がる。"}, {"skillName": "鉄脚", "description": "試合中、自身のキックが増加する。"}, {"skillName": "ようこそ戦場へ", "description": "スキル発動時、しばらくの間、自身のシュート成功率とシュート実行率が大幅に上昇する。"}]},
       {"cardName": "ロングレンジシュート練習", "skills": [{"skillName": "崖っぷち", "description": "相手チームにリードされている時、自身のシュート成功率が上がる。"}, {"skillName": "鉄脚", "description": "試合中、自身のキックが増加する。"}, {"skillName": "ちゃんと見てろよ", "description": "スキル発動時、しばらくの間、自身のシュート成功率とシュート実行率が上昇する。"}]}
@@ -173,7 +173,7 @@ const characterData = [
   {
     "name": "蜂楽廻【怪物夢中】",
     "type": "テクニック",
-    "image": "../蜂楽廻【怪物夢中】.png",
+    "image": "./images/蜂楽廻【怪物夢中】.png",
     "trainingCards": [
       {"cardName": "ドリブルトレーニング", "skills": [{"skillName": "幻惑", "description": "スキル発動した際の突破時のみ、テクニックを活かした突破が上手くなる。"}, {"skillName": "胆力", "description": "スキル発動した際のマッチアップにおいて、実力を発揮しやすくなる。"}, {"skillName": "ぎゅる！ぎゅる！", "description": "スキル発動時、しばらくの間、自身のテクニックと突破成功率が上昇する。"}]},
       {"cardName": "ロンドトレーニング", "skills": [{"skillName": "伸足", "description": "スキル発動した際のシュートブロック時、ボールに触りやすくなる。"}, {"skillName": "切れ者", "description": "試合中、自身の賢さが増加する。"}, {"skillName": "ぎゅる！ぎゅる！", "description": "スキル発動時、しばらくの間、自身のテクニックと突破成功率が上昇する。"}]},
@@ -183,7 +183,7 @@ const characterData = [
   {
     "name": "潔世一【\"青い監獄\"の心臓】",
     "type": "賢さ",
-    "image": "../潔世一【”青い監獄”の心臓】.png",
+    "image": "./images/潔世一【"青い監獄"の心臓】.png",
     "trainingCards": [
       {"cardName": "ポジティブシンキング", "skills": [{"skillName": "戦術眼", "description": "スキル発動した際のパスカット時のみ、自身のパスカットの成功率が上がる。"}, {"skillName": "切れ者", "description": "試合中、自身の賢さが増加する。"}, {"skillName": "妨害工作", "description": "スキル発動時、しばらくの間、自身のシュートブロック成功率とシュートを弾く確率が上昇する。"}]},
       {"cardName": "イメージトレーニング", "skills": [{"skillName": "戦術眼", "description": "スキル発動した際のパスカット時のみ、自身のパスカットの成功率が上がる。"}, {"skillName": "切れ者", "description": "試合中、自身の賢さが増加する。"}, {"skillName": "妨害工作", "description": "スキル発動時、しばらくの間、自身のシュートブロック成功率とシュートを弾く確率が上昇する。"}]},
@@ -193,7 +193,7 @@ const characterData = [
   {
     "name": "千切豹馬【最速の韋駄天】",
     "type": "スピード",
-    "image": "../千切豹馬【最速の韋駄天】.png",
+    "image": "./images/千切豹馬【最速の韋駄天】.png",
     "trainingCards": [
       {"cardName": "スプリントダッシュ", "skills": [{"skillName": "疾風", "description": "スキル発動した際の突破時のみ、スピードを活かした突破が上手くなる。"}, {"skillName": "胆力", "description": "スキル発動した際のマッチアップにおいて、実力を発揮しやすくなる。"}, {"skillName": "スプリット", "description": "スキル発動時、しばらくの間、自身のスピードと突破成功率が上昇する。"}]},
       {"cardName": "全力シャトルラン", "skills": [{"skillName": "俊敏", "description": "試合中、自身のスピードが増加する。"}, {"skillName": "下剋上", "description": "マッチアップ相手のステータスが自分よりかなり高いと、スキル発動した際の突破時のみ自身の能力が上がる。"}, {"skillName": "スプリット", "description": "スキル発動時、しばらくの間、自身のスピードと突破成功率が上昇する。"}]}
@@ -202,7 +202,7 @@ const characterData = [
   {
     "name": "糸師凛【破壊者】",
     "type": "スピード",
-    "image": "../糸師凛【破壊者】.png",
+    "image": "./images/糸師凛【破壊者】.png",
     "trainingCards": [
       {"cardName": "全力シャトルラン", "skills": [{"skillName": "シュート上手", "description": "スキル発動した際の自身のシュート時のみ、シュートブロックされづらくなる。"}, {"skillName": "鉄脚", "description": "試合中、自身のキックが増加する。"}, {"skillName": "破壊者", "description": "スキル発動時、しばらくの間、自身のシュート成功率とシュート実行率が大幅に上昇する。"}]},
       {"cardName": "スプリントダッシュ", "skills": [{"skillName": "シュート上手", "description": "スキル発動した際の自身のシュート時のみ、シュートブロックされづらくなる。"}, {"skillName": "鉄脚", "description": "試合中、自身のキックが増加する。"}, {"skillName": "絶望の境地", "description": "スキル発動時、しばらくの間、自身のシュート成功率とシュート実行率が上昇する。"}]}
@@ -211,7 +211,7 @@ const characterData = [
   {
     "name": "糸師冴【『美しく壊す』哲学】",
     "type": "テクニック",
-    "image": "../糸師冴【『美しく壊す』哲学】.png",
+    "image": "./images/糸師冴【『美しく壊す』哲学】.png",
     "trainingCards": [
       {"cardName": "ドリブルトレーニング", "skills": [{"skillName": "幻惑", "description": "スキル発動した際の突破時のみ、テクニックを活かした突破が上手くなる。"}, {"skillName": "巧手", "description": "試合中、自身のテクニックが増加する。"}, {"skillName": "美しく壊す", "description": "スキル発動時、しばらくの間、自身のテクニックとシュート成功率が大幅に上昇する。"}]},
       {"cardName": "ロンドトレーニング", "skills": [{"skillName": "幻惑", "description": "スキル発動した際の突破時のみ、テクニックを活かした突破が上手くなる。"}, {"skillName": "巧手", "description": "試合中、自身のテクニックが増加する。"}, {"skillName": "哲学的思考", "description": "スキル発動時、しばらくの間、自身のテクニックとパス成功率が上昇する。"}]}
